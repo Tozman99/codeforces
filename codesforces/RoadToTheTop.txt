@@ -1,0 +1,7 @@
+
+Strategy to move quickly in the competitive programming game : 
+    - Do all the 800's problems : 38 x 7 = 252 problems (reason: you will be able to compare everything to these low level problems)
+    - do 100 problems less than 1000 elo
+    - do 50 problems less than 1200 elo 
+    - do 50 problems less than 1500 elo
+    - do programming competition
